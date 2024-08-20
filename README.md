@@ -11,9 +11,8 @@ In this project, we use Python and unsupervised learning techniques to analyze a
 - **README.md**: This file, providing an overview and instructions for the project.
 
 ## Results
-![Original Data Elbow Plot](https://github.com/user-attachments/assets/83eddb0e-5add-4c2a-aa82-670293429ee2)
+![Composite Elbow Plot](https://github.com/user-attachments/assets/8eaf837d-91c4-4d6b-8f70-9210ec2502c0)
 
-![PCA Elbow Plot](https://github.com/user-attachments/assets/8c298e07-9878-4702-ae75-2b56bd5dc9c9)
 
 ![Original versus PCA Clusters Results](https://github.com/user-attachments/assets/faf25ae2-67c9-4283-9ce6-cc2b7ebca54f)
 
